@@ -40,6 +40,7 @@ Then [personalize your new site](https://sourcethemes.com/academic/docs/get-star
 ## License
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
+Copyright 2020 [Makoto Suwama](https://msuwama.github.io).
 
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
 

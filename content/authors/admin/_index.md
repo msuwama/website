@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I am a math graduate student at the University of Georgia. My research interests include number theory, arithemetic geometry and commutative algebra. Outside of math, I am interested in puzzles like logic puzzles and [puzzlehunts](https://en.wikipedia.org/wiki/Puzzlehunt).
+I am a math graduate student at the University of Georgia. My research interests include number theory, arithemetic geometry and commutative algebra. My advisor is [Prof. Dino Lorenzini](http://alpha.math.uga.edu/~lorenz/). Outside of math, I am interested in puzzles like logic puzzles and [puzzlehunts](https://en.wikipedia.org/wiki/Puzzlehunt).
