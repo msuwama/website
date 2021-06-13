@@ -14,16 +14,16 @@ publishDate:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Accepted by International Journal of Number Theory"
+publication_short: "Int. J. Number Theory"
 
-abstract: "By repeatedly summing the squares of the digits in base $b$, we obtain a sequence of integers. In this paper, we are concerned with the cycles that arise in this iterative process. It is known that any such sequence ends in a cycle, and for a fixed base $b$, there are only finitely many cycles. We show that for any $\\ell \\ge 1$, the set of bases $b$ that admit a cycle of length $\\ell$ contains an arithmetic progression, and therefore has positive lower density."
+abstract: By repeatedly summing the squares of the digits in base $b$, we obtain a sequence of integers. In this paper, we are concerned with the cycles that arise in this iterative process. It is known that any such sequence ends in a cycle, and for a fixed base $b$, there are only finitely many cycles. We show that for any $\\ell \\ge 1$, the set of bases $b$ that admit a cycle of length $\\ell$ contains an arithmetic progression, and therefore has positive lower density.
 
 # Summary. An optional shortened abstract.
-summary: "A paper on cycles obtained from taking a sum of the squares of the digits in different bases."
+summary: A paper on cycles obtained from taking a sum of the squares of the digits in base $b$.
 
 tags: []
 categories: []
@@ -31,9 +31,9 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2105.14361
 #   icon_pack: fab
 #   icon: twitter
 
